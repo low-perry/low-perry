@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-⚡ Fun fact: In Albanian, a female dog and a certain insect that eats potatoes share a name. My grandma used to say,
+> “The mother becomes a ‘bushtër’ for her children”.
+> (Original) "Nëna për fëmijët bëhet bushtër".
+
+Meaning that a mother can be as ferocious as a mother dog to protect her offspring and confusing me for a big chunk of
+my childhood because I never understood why a mother would become a potato insect.
