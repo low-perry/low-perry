@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+> It's me, the problem.
+> 
+Taylor Swift (probably)
+
 <!--
 **low-perry/low-perry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
