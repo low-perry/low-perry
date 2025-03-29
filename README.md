@@ -1,26 +1,4 @@
-## Hi there 👋
-
-> It's me, the problem.
-> 
-Taylor Swift (probably)
-
-<!--
-**low-perry/low-perry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--⚡ Fun fact: In Albanian, a female dog and a certain insect that eats potatoes share a name. My grandma used to say,
-> “The mother becomes a ‘bushtër’ for her children”.
-> (Original) "Nëna për fëmijët bëhet bushtër".
-
-Meaning that a mother can be as ferocious as a mother dog to protect her offspring and confusing me for a big chunk of
-my childhood because I never understood why a mother would become a potato insect.
+<div align="center">
+  <h1>Hi there</h1>
+  <img src="https://raw.githubusercontent.com/low-perry/my-assets/refs/heads/main/my-logo.svg" width="200" height="200" alt="Space Robot SVG">
+</div>
