@@ -7,5 +7,4 @@
   </defs>
   <text x="50%" y="60" font-family="Arial" font-size="50" font-weight="bold" text-anchor="middle" fill="url(#gradient)">Hi 👋</text>
   <text x="50%" y="120" font-family="Arial" font-size="50" font-weight="bold" text-anchor="middle" fill="url(#gradient)">I am Dario</text>
-  <text x="50%" y="180" font-family="Arial" font-size="50" font-weight="bold" text-anchor="middle" fill="url(#gradient)">My friend below is AstroPink</text>
 </svg>
